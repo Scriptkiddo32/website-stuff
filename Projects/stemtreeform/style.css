@@ -1,0 +1,28 @@
+body {
+    background: #ffeeee;
+}
+
+#c1 {
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 2px solid black;
+    width: 100px;
+}
+
+#c2 {
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 2px solid black;
+    width: 10px;
+}
+
+#b {
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 2px solid black;
+    width: 100px;
+}
+
